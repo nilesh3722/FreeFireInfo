@@ -1,14 +1,3 @@
-
-═════════════════════════════════
-
-POWERED BY    : Ꮋᴀᴄᴋᴇʀ
-
-TELEGRAM      : @hackerrr009
-
-LINK          : https://t.me/hackerrr009
-
-═════════════════════════════════
-
 Flask
 requests
 gunicorn
