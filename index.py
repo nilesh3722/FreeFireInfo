@@ -7,7 +7,7 @@ import os
 
 UPSTREAM = "https://infoooooo-v6v5.vercel.app/accinfo"
 
-API_KEY = os.environ.get("API_KEY", "Hacker")
+API_KEY = os.environ.get("API_KEY", "Nilesh")
 
 SIGNATURE = (
     "╔══════════════════════════════╗\n"
